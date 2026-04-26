@@ -6,105 +6,125 @@ Portfólio acadêmico e profissional desenvolvido para apresentar minhas habilid
 
 ## Acesse meu portfólio
 
-Link em breve disponível via GitHub Pages.
+https://matheushfsi.github.io
 
 ---
 
 ## Objetivo
 
-Busco minha primeira oportunidade na área de tecnologia, com foco em desenvolvimento de software. Tenho interesse em aprender continuamente, contribuir em equipe e evoluir profissionalmente na área de programação.
+Busco minha primeira oportunidade na área de tecnologia, com foco em desenvolvimento de software, especialmente back-end e APIs.
+
+Tenho interesse em aprendizado contínuo, trabalho em equipe e desenvolvimento de soluções eficientes.
 
 ---
 
 ## Sobre mim
 
-Sou formado em Informática por um curso técnico integrado ao ensino médio, com experiência em desenvolvimento de sites, banco de dados, eletrônica básica e manutenção de computadores.
+Sou formado em Técnico em Informática integrado ao Ensino Médio e atualmente curso ensino superior na FATEC.
 
-Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e resolver problemas.
+Possuo experiência em:
+- Desenvolvimento web (front-end e back-end)
+- Banco de dados
+- Eletrônica básica
+- Manutenção de computadores
+
+Tenho facilidade em aprender novas tecnologias, resolver problemas e trabalhar em equipe.
 
 ---
 
 ## Projetos em destaque
 
 ### Robô com Arduino
+Desenvolvimento de um robô controlado remotamente, aplicando conceitos de eletrônica e automação.
 
-Desenvolvimento de um robô controlado remotamente, aplicando conceitos de eletrônica e automação com uso de Arduino.
+Tecnologias: Arduino, C++, eletrônica básica
+
+---
 
 ### Desenvolvimento de Websites
+Criação de aplicações web completas com integração a banco de dados.
 
-Criação de aplicações web completas, incluindo front-end e back-end, com integração a banco de dados.
+Tecnologias: HTML, CSS, JavaScript, PHP, MySQL
+
+---
 
 ### Sistema de Reconhecimento Facial
+Sistema de controle de acesso utilizando inteligência artificial e banco de dados.
 
-Desenvolvimento de um sistema de controle de acesso utilizando Inteligência Artificial e banco de dados.
+Tecnologias: Python, visão computacional, MySQL
+
+---
+
+### Análise de Deputados
+Sistema de análise de dados públicos para auxiliar decisões de voto.
+
+Tecnologias: Python, Flask, APIs, HTML, CSS
 
 ---
 
 ## Tecnologias e Ferramentas
 
-* HTML
-* CSS
-* JavaScript
-* Banco de Dados
-* Arduino
-* Pacote Office
+- HTML, CSS, JavaScript  
+- Python, PHP, C#, Java  
+- Flask  
+- MySQL  
+- XAMPP, MySQL Workbench  
+- Arduino  
 
 ---
 
 ## Habilidades
 
 ### Hard Skills
-
-* Desenvolvimento Web
-* Integração com banco de dados
-* Manutenção de computadores
+- Desenvolvimento Web  
+- Integração com banco de dados  
+- Lógica de programação  
+- Manutenção de computadores  
 
 ### Soft Skills
-
-* Trabalho em equipe
-* Liderança
-* Organização
-* Comunicação
-* Proatividade
+- Trabalho em equipe  
+- Comunicação  
+- Organização  
+- Proatividade  
+- Liderança  
 
 ---
 
 ## Conquistas e Participações
 
-* Olimpíada Brasileira de Informática (2023–2025)
-* Olimpíada Canguru de Matemática (2023–2025)
-* Olimpíada Brasileira de Astronomia (2019–2025)
-
-  * Medalha de prata (2021)
-* Olimpíada Brasileira de Geografia (2025)
-
-  * Medalha de prata
-* Olimpíada Nacional de Ciências (2025)
-* Olimpíada Nacional de História (2024)
-* Desafio Nacional Acadêmico (2024)
+- Olimpíada Brasileira de Informática (2023–2025)  
+- Olimpíada Canguru de Matemática (2023–2025)  
+- Olimpíada Brasileira de Astronomia (2019–2025)  
+  Medalha de prata (2021)  
+- Olimpíada Brasileira de Geografia (2025)  
+  Medalha de prata  
+- Olimpíada Nacional de Ciências (2025)  
+- Olimpíada Nacional de História (2024)  
+- Desafio Nacional Acadêmico (2024)  
 
 ---
 
 ## Experiências e Eventos
 
-* Participação em palestras administrativas, filosóficas e financeiras
-* Semana de Profissões – Colégio Técnico Opção
-* Visita técnica à UNICAMP (2024 e 2025)
-* Palestra Inovatec – Parque Tecnológico
+- Semana de Profissões – Colégio Técnico Opção  
+- Visita técnica à UNICAMP (2024 e 2025)  
+- Palestra Inovatec – Parque Tecnológico  
+- Participação em palestras administrativas, filosóficas e financeiras  
 
 ---
 
 ## Experiência
 
-Liderança em equipe em operação logística, com organização e apoio na entrega de kits natalinos para as empresas Seara e Log Foods.
+Atuação em liderança de equipe em operação logística, com organização e apoio na entrega de kits natalinos para as empresas Seara e Log Foods.
 
 ---
 
 ## Contato
 
-Email: [matheusferreiraint@gmail.com](mailto:matheusferreiraint@gmail.com)
-WhatsApp: +55 (11) 96317-7363
-Instagram: @matheus_ginc
+Email: [matheusferreiraint@gmail.com](mailto:matheusferreiraint@gmail.com)  
+WhatsApp: +55 (11) 96317-7363  
+Instagram: @matheus_ginc  
+GitHub: https://github.com/matheushfsi  
 
 ---
 
@@ -116,4 +136,4 @@ Em desenvolvimento, com atualizações contínuas.
 
 ## Observação
 
-Este portfólio será atualizado com novos projetos, experiências e aprendizados ao longo do tempo.
+Este portfólio será atualizado com novos projetos, experiências e aprendizados ao longo da minha trajetória na área de tecnologia.
