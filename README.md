@@ -1,139 +1,234 @@
 # Matheus Henrique Ferreira da Silva
 
-Portfólio acadêmico e profissional desenvolvido para apresentar minhas habilidades, projetos e trajetória na área de tecnologia.
+Portfólio acadêmico e profissional desenvolvido para apresentar minha trajetória, habilidades técnicas, projetos e experiências na área de tecnologia.
 
 ---
 
-## Acesse meu portfólio
+## Acesse meu Portfólio
 
-https://matheushfsi.github.io
-
----
-
-## Objetivo
-
-Busco minha primeira oportunidade na área de tecnologia, com foco em desenvolvimento de software, especialmente back-end e APIs.
-
-Tenho interesse em aprendizado contínuo, trabalho em equipe e desenvolvimento de soluções eficientes.
+**Site:** https://matheushfsi.github.io
 
 ---
 
-## Sobre mim
+## Objetivo Profissional
 
-Sou formado em Técnico em Informática integrado ao Ensino Médio e atualmente curso ensino superior na FATEC.
+Busco oportunidades na área de Desenvolvimento de Software, com foco em desenvolvimento back-end, APIs, banco de dados e sistemas de alto desempenho.
 
-Possuo experiência em:
-- Desenvolvimento web (front-end e back-end)
-- Banco de dados
-- Eletrônica básica
-- Manutenção de computadores
-
-Tenho facilidade em aprender novas tecnologias, resolver problemas e trabalhar em equipe.
+Tenho interesse em aprendizado contínuo, boas práticas de desenvolvimento, trabalho em equipe e criação de soluções tecnológicas eficientes.
 
 ---
 
-## Projetos em destaque
+## Sobre Mim
+
+Sou formado em Técnico em Informática integrado ao Ensino Médio e atualmente curso Tecnologia em Desenvolvimento de Sistemas Multiplataforma (FATEC).
+
+Ao longo da minha formação participei de projetos de software, automação, análise de dados e inteligência artificial, desenvolvendo competências em programação, banco de dados e metodologias de desenvolvimento.
+
+### Áreas de Interesse
+
+* Desenvolvimento Back-end
+* APIs e Integrações
+* Banco de Dados
+* Inteligência Artificial
+* Análise de Dados
+* Automação e Sistemas Embarcados
+
+---
+
+## Projetos em Destaque
 
 ### Robô com Arduino
-Desenvolvimento de um robô controlado remotamente, aplicando conceitos de eletrônica e automação.
 
-Tecnologias: Arduino, C++, eletrônica básica
+Projeto de um robô controlado remotamente utilizando Arduino e componentes eletrônicos.
 
----
+**Tecnologias:**
 
-### Desenvolvimento de Websites
-Criação de aplicações web completas com integração a banco de dados.
+* Arduino
+* C++
 
-Tecnologias: HTML, CSS, JavaScript, PHP, MySQL
+**Função no Projeto:**
+
+* Construtor
+* Desenvolvedor Back-end
 
 ---
 
 ### Sistema de Reconhecimento Facial
-Sistema de controle de acesso utilizando inteligência artificial e banco de dados.
 
-Tecnologias: Python, visão computacional, MySQL
+Sistema de controle de acesso utilizando reconhecimento facial e banco de dados.
+
+**Tecnologias:**
+
+* Python
+* MySQL
+
+**Função no Projeto:**
+
+* Desenvolvedor Back-end
+
+**Documentação:**
+https://docs.google.com/document/d/1HjChyBIes47umCmYhFtKktQqUWxbqai6KQP_gWSwWm4
 
 ---
 
-### Análise de Deputados
-Sistema de análise de dados públicos para auxiliar decisões de voto.
+### Sistema de Cantina Escolar
 
-Tecnologias: Python, Flask, APIs, HTML, CSS
+Sistema para gerenciamento de pedidos e histórico de compras em ambiente escolar.
+
+**Tecnologias:**
+
+* C#
+* HTML
+* CSS
+* PHP
+* MySQL
+
+**Função no Projeto:**
+
+* Desenvolvedor Front-end
+
+---
+
+### Radar Cidadão – Análise de Deputados
+
+Sistema de análise de dados públicos para auxiliar cidadãos na consulta de informações parlamentares.
+
+**Tecnologias:**
+
+* Python
+* Flask
+* APIs
+* HTML
+* CSS
+
+**Função no Projeto:**
+
+* Scrum Master
+
+**GitHub:**
+https://github.com/NoClip-API/radar-cidadao
+
+---
+
+### Sistema de Controle de Notas e Faltas
+
+Sistema para acompanhamento acadêmico de alunos, permitindo consulta de notas e frequência.
+
+**Tecnologias:**
+
+* Python
+* Flask
+* Docker
+* MySQL
+
+**Função no Projeto:**
+
+* Desenvolvedor Front-end
+* Desenvolvedor Back-end
 
 ---
 
 ## Tecnologias e Ferramentas
 
-- HTML, CSS, JavaScript  
-- Python, PHP, C#, Java  
-- Flask  
-- MySQL  
-- XAMPP, MySQL Workbench  
-- Arduino  
+### Linguagens
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* Python
+* Java
+* C#
+
+### Frameworks
+
+* Flask
+
+### Banco de Dados
+
+* MySQL
+
+### Ferramentas
+
+* Docker
+* XAMPP
+* MySQL Workbench
+* Arduino
 
 ---
 
-## Habilidades
+## Competências
 
 ### Hard Skills
-- Desenvolvimento Web  
-- Integração com banco de dados  
-- Lógica de programação  
-- Manutenção de computadores  
+
+* Desenvolvimento Web
+* Desenvolvimento Back-end
+* Desenvolvimento Front-end
+* Integração com APIs
+* Banco de Dados Relacional
+* Lógica de Programação
+* Sistemas Embarcados
+* Inteligência Artificial
 
 ### Soft Skills
-- Trabalho em equipe  
-- Comunicação  
-- Organização  
-- Proatividade  
-- Liderança  
+
+* Trabalho em Equipe
+* Comunicação
+* Liderança
+* Organização
+* Resolução de Problemas
+* Proatividade
 
 ---
 
-## Conquistas e Participações
+## Certificados e Conquistas
 
-- Olimpíada Brasileira de Informática (2023–2025)  
-- Olimpíada Canguru de Matemática (2023–2025)  
-- Olimpíada Brasileira de Astronomia (2019–2025)  
-  Medalha de prata (2021)  
-- Olimpíada Brasileira de Geografia (2025)  
-  Medalha de prata  
-- Olimpíada Nacional de Ciências (2025)  
-- Olimpíada Nacional de História (2024)  
-- Desafio Nacional Acadêmico (2024)  
+* Participação em Olimpíadas Científicas (OBI, OBA, OBG, ONC e DNA)
+* Medalha de Prata – Olimpíada Brasileira de Astronomia (2021)
+* Medalha de Prata – Olimpíada Brasileira de Geografia (2025)
 
 ---
 
-## Experiências e Eventos
+## Cursos e Capacitações
 
-- Semana de Profissões – Colégio Técnico Opção  
-- Visita técnica à UNICAMP (2024 e 2025)  
-- Palestra Inovatec – Parque Tecnológico  
-- Participação em palestras administrativas, filosóficas e financeiras  
+* Curso de Inglês – Kenny Idiomas
+* Curso de Inglês – CBA Idiomas
+* Aperfeiçoamento de Inglês (4 anos em aplicativo)
+* Redação, Laboratório de Ciências e Inglês
+* Apresentações de Projetos em Inglês
+* Precificação de Produtos
+* Gerenciamento de Estoque
+* Atendimento ao Público
+* Montagem e Amarração de Ferragens
 
 ---
 
-## Experiência
+## Eventos e Participações
 
-Atuação em liderança de equipe em operação logística, com organização e apoio na entrega de kits natalinos para as empresas Seara e Log Foods.
+* Semana de Profissões – Colégio Técnico Opção
+* Visita Técnica à UNICAMP (2024 e 2025)
+* Palestra Inovatec – Parque Tecnológico
+* Evento de Debate "Provocação"
+* Feiras de Projetos e TCC
 
 ---
 
 ## Contato
 
-Email: [matheusferreiraint@gmail.com](mailto:matheusferreiraint@gmail.com)  
-WhatsApp: +55 (11) 96317-7363  
-Instagram: @matheus_ginc  
-GitHub: https://github.com/matheushfsi  
+**Email:** [matheusferreiraint@gmail.com](mailto:matheusferreiraint@gmail.com)
+
+**GitHub:** https://github.com/matheushfsi
+
+**LinkedIn:** https://www.linkedin.com/in/matheus-henrique-f-6b7866317
 
 ---
 
-## Status do projeto
+## Status do Projeto
 
-Em desenvolvimento, com atualizações contínuas.
+Portfólio em constante atualização, recebendo novos projetos, experiências, certificações e aprendizados ao longo da minha trajetória profissional.
 
 ---
 
-## Observação
+## Licença
 
-Este portfólio será atualizado com novos projetos, experiências e aprendizados ao longo da minha trajetória na área de tecnologia.
+Este projeto foi desenvolvido para fins acadêmicos e profissionais, servindo como apresentação do meu portfólio pessoal.
